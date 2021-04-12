@@ -144,7 +144,7 @@ const Database = () => {
             <div className="col mx-auto">
               <div className="card ">
                 <div className="card-header">
-                  <h3>Data</h3>
+                  <h3>Database</h3>
                 </div>
 
                 <div className="card-body ">
